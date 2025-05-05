@@ -43,5 +43,8 @@ Disrupting wireless communication by sending continuous deauthentication or inte
 - Hands-on experience with offensive security tools.
 - Improved understanding of mitigation strategies for wireless threats.
 
+## Video:
+https://drive.google.com/file/d/1WvvmVS6VQ8E9fQr_HZZKxPrMReMXwHlF/view?usp=sharing
+
 
 
